@@ -1,0 +1,2 @@
+dofile("base/game.lua")
+
